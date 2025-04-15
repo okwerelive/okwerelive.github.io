@@ -82,7 +82,7 @@ body {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
   margin-bottom: 25px; /* Keeps it aligned */
-  max-width: 400px;
+  max-width: 350px;
   pointer-events: none; /* allows clicks to pass through if needed */
 }
 
