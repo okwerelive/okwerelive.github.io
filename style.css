@@ -81,10 +81,8 @@ body {
   border-top-right-radius: 20px;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
   margin-bottom: 25px; /* Keeps it aligned */
+  max-width: 400px;
   pointer-events: none; /* allows clicks to pass through if needed */
 }
 
@@ -333,7 +331,7 @@ body {
   gap: 10px;
   font-family: 'Coolvetica', sans-serif;
   z-index: 2;
-  font-size: 2em;
+  font-size: 1.8em;
   letter-spacing: 3px;
 }
 
